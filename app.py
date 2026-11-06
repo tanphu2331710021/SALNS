@@ -1,7 +1,7 @@
 import streamlit as st
 import pandas as pd
 # Import đúng hàm từ file thuật toán của bạn
-from algorithm_2 import run_optimization 
+from algorithm import run_optimization 
 
 st.set_page_config(
     page_title="SA-LNS - Tân Sơn Nhất",
